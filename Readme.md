@@ -1,6 +1,6 @@
 <h1>Musafir.com</h1>
 
-<h1>musafir-travel.netlify.app/</h1>
+<h1>https://musafir-travel.netlify.app</h1>
 
 
 <h1>Musafir exists to empower the indian traveller with instant bookings and comprehensive choices</h1>
